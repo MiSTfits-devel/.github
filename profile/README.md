@@ -13,7 +13,9 @@ We add features other core devs don't have yet, and they'll copy from us:
   - Various memory and timing issues
 - New hardware implementations
   - N64 DD support
-  - PSX serial and multitap enhancements
+  - PSX upgrades
+    - serial and multitap support/enhancements
+    - CD-ROM seek accuracy with funky new model
   - General WonderSwan improvements
 
 ## Why another organization?
