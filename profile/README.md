@@ -10,7 +10,7 @@ We add features other core devs don't have yet, and they'll copy from us:
 - GBA2P link features
 - N64 DD implementation
 - PSX serial and multitap enhancements
-- General WonderSwan iprovements
+- General WonderSwan improvements
 
 ## Why another organization?
 MiSTer-FPGA didn't want us and banned our team without warning, 'nuff said
