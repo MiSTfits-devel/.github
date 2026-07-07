@@ -6,11 +6,13 @@ Our devs hack on FPGA cores for:
 - WonderSwan
 - and more!
 
-We add features other core devs don't have yet, and they'll copy from us:
+## What have you done?
+We add features other core devs don't have yet, and some they'll copy from us
 - GBA accuracy improvements
   - GBA2P link support for most titles
   - The Shrek Video mapper (yes it's real)
   - Various memory and timing issues
+  - Audio/video fixes for accuracy and authentic console feel
 - New hardware implementations
   - N64 DD support
   - PSX upgrades
