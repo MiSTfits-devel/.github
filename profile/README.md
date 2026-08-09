@@ -9,7 +9,7 @@ Our devs hack on FPGA cores for:
 - and more!
 
 ## What have you done?
-We add features other core devs don't have yet, and some they'll copy from us
+We make sure it fits, even if the feature surface is tight:
 - GBA accuracy improvements
   - GBA2P link support for most titles
   - The Shrek Video mapper (yes it's real)
